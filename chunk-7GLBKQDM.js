@@ -1,0 +1,3 @@
+import{a as d}from"./chunk-D6CRM5WH.js";import{Wb as r,ea as s,ia as i,oc as a,zc as p}from"./chunk-GSKREWNA.js";var h=(()=>{let t=class t{constructor(){this._document=s(a)}ngOnInit(){let e=d(this.absCode),o=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="${e.G?.viewBox}">
+      <path d="${e.G?.svgPath}" style="fill:none; stroke-width:3" stroke="black"></path>
+    </svg>`;this._document.body.innerHTML=o}};t.\u0275fac=function(o){return new(o||t)},t.\u0275cmp=i({type:t,selectors:[["app-as-svg"]],inputs:{absCode:"absCode"},standalone:!0,features:[r],decls:0,vars:0,template:function(o,c){},dependencies:[p]});let n=t;return n})();export{h as AsSVGComponent};
